@@ -1,0 +1,14 @@
+#controller_location {
+  left: 60%;
+  position: relative;
+}
+
+#RFID-Access-System {
+  color: #d00f2a;
+  font-size: 30px;
+}
+
+#location_msg {
+  color: rgb(208, 15, 42);
+}
+
